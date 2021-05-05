@@ -1,0 +1,17 @@
+#header {
+    font-family: 'Merriweather', serif;
+}
+
+#title {
+    font-weight: 700;
+}
+
+#image {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+#timeline {
+    font-family: 'Roboto Slab', serif;
+}
